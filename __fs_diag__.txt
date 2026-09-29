@@ -1,0 +1,2 @@
+fs-diag-ok
+line-2
